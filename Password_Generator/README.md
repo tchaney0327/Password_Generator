@@ -3,7 +3,7 @@
 This application will create an unique, user generated password.  The user with have the following options to create thier unique password:
 
 
---Between 8 and 128 Characters
+--Between 8 and 128 Characters\n
 --Uppercase
 --Lowercase
 --Numbers
